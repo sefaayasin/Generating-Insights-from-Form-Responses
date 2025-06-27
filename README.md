@@ -73,4 +73,4 @@ Her model:
 
 ---
 
-
+## 👨‍💻 Geliştiren: Sefa Yasin Namlı
